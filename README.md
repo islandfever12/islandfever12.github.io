@@ -34,7 +34,7 @@
         <button type="button" onclick="visualizeData()">Visualize</button>
     </form>
 
-    <canvas id="tireChart" width="400" height="400"></canvas>
+    <canvas id="tireChart" width="200" height="200"></canvas>
 
     <script>
         function visualizeData() {
